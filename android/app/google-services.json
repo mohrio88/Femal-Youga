@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "846406354407",
+    "project_id": "yoga-gogo",
+    "storage_bucket": "yoga-gogo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846406354407:android:e194fb3282fc85af41a942",
+        "android_client_info": {
+          "package_name": "com.gws.yogagogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846406354407-1doh4a8752emdfjnf0hgnvipcbprcm1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gws.yogagogo",
+            "certificate_hash": "86204e14736494c6019f33dc9d5c277c113774c6"
+          }
+        },
+        {
+          "client_id": "846406354407-577v2j0ojqfpi0jedc1n08r3asf1o3vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSV3cT13Vl5zZ-ehexc8DYZd2k2PglSX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846406354407-577v2j0ojqfpi0jedc1n08r3asf1o3vp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846406354407-1dvu1vgpcit8on3obbk5vedejqqk0ev6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gws.yogagogo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

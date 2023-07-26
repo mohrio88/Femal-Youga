@@ -1,0 +1,20 @@
+# Flutter/Dart build files
+**/build/
+**/ios/Pods/
+**/ios/Flutter/.symlinks/
+**/ios/Flutter/flutter_assets/
+**/android/build/
+**/android/app/*.apk
+**/android/app/*.aar
+**/android/.gradle/
+**/android/.idea/
+**/android/captures/
+**/android/gradle/
+**/android/gradlew
+**/android/local.properties
+**/android/gradlew.bat
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/flutter_assets/
+**/.dart_tool/
